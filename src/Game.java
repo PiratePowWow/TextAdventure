@@ -16,4 +16,6 @@ public class Game {
 
     }
 
+    //String num = scanner.nextLine();
+    //int n = Integer.valueOf(num);
 }
