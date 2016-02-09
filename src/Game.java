@@ -20,6 +20,10 @@ public class Game {
         player.findItem("helm");
 
 
+        Enemy ogre = new Enemy("Ogre", 10, 10);
+        player.battle(ogre);
+
+
 
 //        System.out.println("You found a shield! Pick it up? [y/n]");
 //        String answer = scanner.nextLine();
